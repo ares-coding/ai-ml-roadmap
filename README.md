@@ -229,7 +229,7 @@ Visualization	Matplotlib
 
 📌 Author
 
-Yu
+Ares Coding
 AI & Software Developer
 GitHub: https://github.com/ares-coding
 
