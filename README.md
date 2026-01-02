@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/roadmap-overview.png" width="90%">
+</p>
+
 # ai-ml-roadmap
 Beginner → Intermediate (Student &amp; Self-Learner Friendly)
 A practical, visual roadmap for learning AI & Machine Learning, focused on Computer Vision, real projects, and thesis-ready skills.
